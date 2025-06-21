@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdullahnaseem.abdullahnaseem&" />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
