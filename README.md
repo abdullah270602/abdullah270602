@@ -20,12 +20,14 @@
 
 I'm Abdullah — a backend-focused software engineer and SE student in my final year.
 
-- 🧠 Building an **adaptive e-learning platform** as my FYP
-- 🚀 Exploring LLMs, FastAPI, PostgreSQL, and automation
-- 🔧 Experience with Flask, Django, RabbitMQ, MongoDB, MinIO, and cloud platforms like AWS and GCP
-- ⚙️ Implemented **CI/CD pipelines** and handled deployments using Docker, GitHub Actions, GitLabs runners 
-- 🌱 Learning about system design, scalable backend architecture, and AI integrations
-- 🌍 Passionate about building tools with real impact — and I love to travel
+- 🧠 Building an **Adaptive Learn AI** as my FYP  
+- 🚀 Exploring LLMs, FastAPI, PostgreSQL, and automation  
+- 🔧 Experience with Flask, Django, RabbitMQ, MongoDB, MinIO, and cloud platforms like AWS and GCP  
+- ⚙️ Implemented **CI/CD pipelines** and handled deployments using Docker, GitHub Actions, GitLab Runners  
+- 🛠️ I enjoy **creating things from scratch** — from backend systems to full products  
+- 🌱 Learning about system design, scalable backend architecture, and AI integrations  
+- 🌍 Passionate about building tools with real impact — and I love to travel  
+
 
 
 ###
