@@ -72,9 +72,3 @@ I'm Abdullah — a backend-focused software engineer and SE student in my final 
 </div>
 
 
-### 🔥 My Stats
-
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah270602&show_icons=true&locale=en&layout=compact" alt="abdullah270602" /></p>
-</div>
-
