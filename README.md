@@ -20,7 +20,7 @@
 
 I'm Abdullah, a backend-focused software engineer.
 
-- 🧠 Building an **Adaptive Learn AI** as my FYP  
+- 🧠 Building an **Adaptive Learn AI**
 - 🚀 Exploring LLMs, FastAPI, PostgreSQL, and automation  
 - 🔧 Experience with Flask, Django, RabbitMQ, MongoDB, MinIO, and cloud platforms like AWS and GCP  
 - ⚙️ Implemented **CI/CD pipelines** and handled deployments using Docker, GitHub Actions, GitLab Runners  
