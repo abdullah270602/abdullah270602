@@ -2,12 +2,8 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWthbzJiMHd3c3FwN3dwNTM1NmRqNWRmb3U1aWlrZGlwMnQwZG95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 </div>
 
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-naseem-z27062002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" />
-  </a>
-</div>
+
+
 
 
 ###
